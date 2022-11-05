@@ -1,0 +1,111 @@
+.nav-ber{
+    display: flex;
+    direction: rtl;
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin: 15px;
+}
+nav a{
+    margin: 15px;
+    text-decoration: none;
+    
+}
+/*------------------------------- journey--------------------------- */
+.journey{
+    display: flex;
+    margin-top: 10px;
+    padding:10px;
+    background-color: wheat;
+}
+
+.img-filter{
+    width: 440px;
+    height: 414px;
+    padding:80px;
+    margin-top: 20px;
+    
+}
+.ancor{
+    color: white;
+    text-decoration: none;
+    background-color:#E02C6D;
+    border: 1px solid rgb(15, 13, 13);
+    border-radius: 41px;
+    padding: 15px ;  
+    margin-top: 15px;           
+}
+/*----------------------------- logo ------------------- */
+.popular{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-left: 100px;
+}
+.six img{
+    align-items: center;
+}
+
+
+.six{
+    background-color:#ffff;
+    border: 1px solid white;
+    border-radius: 60px;
+    box-shadow:40px ;
+    margin-top: 20px;
+    box-shadow: 16px;
+}
+
+
+.logo{
+    margin: 50px;
+    left: 165px;
+    background-color: rgb(248, 245, 245);
+    padding: 10px;
+}
+.img{
+    margin: 30px;
+}
+/*--------------------------- popular seaction----------------- */
+h1{
+    text-align: center;
+}
+.fa-star{
+    color: yellow;
+}
+.fa-star-half-stroke{
+    color: yellow;
+}
+/*------------------------------ Featured--------------------- */
+.Featured{
+    display: flex;
+    
+}
+.fff{
+    margin: 96px;
+}
+.imgs{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.fff p{
+    color:#6C6C6C;
+}
+.join{
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color:#E02C6D;
+    padding: 10px;
+
+}
+.foot{
+    color: #FFFF;
+    font-size: 24px;
+    text-align: center;
+    padding: 30px;
+    background-color:#251b1b;
+}
